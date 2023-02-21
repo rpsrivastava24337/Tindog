@@ -1,2 +1,3 @@
 # thirdwebsire-tindog
-Responsive
+# responsive website 
+# with the guidance form mentor
