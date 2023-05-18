@@ -1,4 +1,4 @@
-# thirdwebsire-tindog
+# thirdwebsite-tindog
 # responsive website 
 # with the guidance form mentor
 #21/02/2023
